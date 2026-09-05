@@ -10,15 +10,15 @@ Operators repeatedly mention manual coordination, spreadsheet workarounds and du
 
 ## Initial hypothesis
 
-There may be a workflow problem worth investigating.
+There may be a workflow problem worth investigating further.
 
-## What we would verify
+## What Must Be Verified
 
 - Is the problem recurring?
 - Who specifically experiences it?
 - What do they do instead?
 - Is there an economic cost?
-- What products already address it?
+- What products already address the problem?
 - Where do those products fail?
 - Is anyone already paying to handle the problem?
 
