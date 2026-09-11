@@ -1,115 +1,55 @@
-# Gold Gap Finder — Methodology
+# 🔬 Methodology Preview
 
-## Discover → Verify → Differentiate → Decide
+This page explains how Gold Gap Finder thinks, without exposing the full v7 implementation — the actual verification logic, scoring formulas, and templates are only in the paid system.
 
-Gold Gap Finder is built around a simple idea:
+The process runs in four stages:
 
-> **A market signal should start an investigation — not end one.**
-
-The methodology moves from a specific market question to an evidence-informed decision.
-
----
-
-## 1. DISCOVER
-
-Start with a **specific niche, customer and context**.
-
-Look for signals such as:
-
-- recurring complaints
-- repeated questions
-- visible friction
-- existing workarounds
-- unmet needs
-- time, money or effort being spent on the problem
-
-The goal is not to collect as many ideas as possible.
-
-The goal is to identify problems that are **interesting enough to investigate further**.
+```
+Discover → Verify → Differentiate → Decide
+```
 
 ---
 
-## 2. VERIFY
+## 1. Discover
 
-A signal is only a starting point.
+The system doesn't start by asking "what's a good idea?" It starts by casting a wide net across a niche, looking through several different lenses at once — direct complaints, workaround patterns, underserved segments, problems created by existing tools, unnecessary manual handoffs, and how adjacent industries solve similar problems.
 
-Look for:
+The goal at this stage is volume with light filtering: generate many candidates, then cut the obviously weak ones — vague pain, no real customer, trivial workaround — before spending real effort on any of them.
 
-**Repetition**  
-Does the problem appear more than once?
-
-**Independence**  
-Does the signal appear across different sources?
-
-**Workaround**  
-Are people already doing something to solve it?
-
-**Economic Evidence**  
-Is there evidence of money, time, labor or risk being spent?
-
-**Competition**  
-Who already serves this problem?
-
-> **Evidence > Excitement**
-
-A single complaint can suggest a hypothesis.
-
-It should not automatically become an opportunity.
+**Output of this stage:** a short list of candidates worth investigating properly.
 
 ---
 
-## 3. DIFFERENTIATE
+## 2. Verify
 
-Competition does not automatically mean the opportunity is closed.
+Every surviving candidate goes through independent checks:
 
-The question becomes:
+Is the pain real and specific — who exactly suffers, how often, and what does it cost them? Does competition actually exist, and how well do they solve it — checking multiple types of sources, not just one search that came back empty? Is there evidence people already spend money, time, or effort on this — wanting something and paying for it are treated as two different things. Why hasn't this been solved well already — sometimes a real problem has a real reason nobody's built a good business around it, and that reason can be big enough to kill the opportunity even when the pain is genuine.
 
-> **Where are existing solutions still weak, incomplete or poorly suited to a specific workflow or customer?**
-
-Look for:
-
-- competitor weaknesses
-- underserved customer segments
-- workflow-specific gaps
-- awkward workarounds
-- overlooked use cases
-- opportunities for a narrower wedge
-
-> **Competitor Weakness > Competitor Absence**
-
-A crowded category may still contain a useful opening.
+This is where most candidates get eliminated. That's intentional — it's the whole point of the system.
 
 ---
 
-## 4. DECIDE
+## 3. Differentiate
 
-Research should end with a decision, not just a list of ideas.
+For whatever survives verification, the system looks specifically for the wedge — not "is this market open," but "what, specifically, is still missing that a small, focused build could own."
 
-Possible outcomes include:
+A crowded market with weak execution can be a better opportunity than an empty market with no evidence of demand. This stage is about finding the precise gap, not avoiding competition altogether.
 
-### 🟢 GOLD GAP
+---
 
-Evidence supports a promising opportunity worth real-world testing.
+## 4. Decide
 
-### 🟡 WEDGE
+The final stage forces a conclusion. Every candidate lands in one of four outcomes:
 
-Competition exists, but a narrower opening may remain.
+🟢 **Gold Gap** — real, evidence-backed opportunity worth testing  
+🟡 **Wedge** — a narrower opening inside a crowded category  
+🟠 **Watchlist** — promising, but evidence is still incomplete  
+🔴 **Rejected** — evidence doesn't justify pursuing it  
 
-### 🟠 WATCHLIST
+And sometimes, honestly: **No Gold Gap Found.**
 
-The signal is promising, but important evidence is still missing.
-
-### 🔴 REJECTED
-
-The evidence does not justify pursuing the opportunity as currently defined.
-
-Sometimes the correct conclusion is:
-
-### ❌ NO GOLD GAP FOUND
-
-That is a valid result.
-
-> **Rejecting an opportunity is evidence of research quality, not failure.**
+A system that always finds something isn't doing real research. Being willing to reject ideas — including ones you were hoping would work — is what makes the output trustworthy.
 
 ---
 
@@ -143,20 +83,11 @@ Before investing heavily in a build, test the strongest remaining assumptions th
 
 The purpose of research is to improve the decision about **what deserves testing next**.
 
----
-
-## The Core Principle
-
-Gold Gap Finder does not try to make every opportunity look attractive.
-
-It is designed to **challenge the opportunity before you become attached to it**.
-
-> **Find the gap. Verify the signal. Test before you build.**
 
 ---
 
-## Community Edition
+## Want to see this applied end-to-end?
 
-This document explains the public methodology at a conceptual level.
+**[Read the Community Example →](COMMUNITY_EXAMPLE.md)** for a full walkthrough from niche to outcome.
 
-The complete Gold Gap Finder v7 contains deeper research instructions, verification logic, scoring, reusable workflows and implementation details that are intentionally not published in this repository.
+**[Compare the Quick Scan vs. the Full System →](README.md#choose-your-path)** to see which depth fits what you need.
