@@ -88,6 +88,6 @@ The purpose of research is to improve the decision about **what deserves testing
 
 ## Want to see this applied end-to-end?
 
-**[Read the Community Example →](COMMUNITY_EXAMPLE.md)** for a full walkthrough from niche to outcome.
+**[Read the Community Example →](01-community-example.md)** for a full walkthrough from niche to outcome.
 
 **[Compare the Quick Scan vs. the Full System →](README.md#choose-your-path)** to see which depth fits what you need.
