@@ -5,7 +5,7 @@
 # Gold Gap Finder
 ### Evidence-First Opportunity Research System
 
-**Most AI tools help you fall in love with an idea. This one is built to talk you out of the bad ones — before you spend months building them.**
+
 
 [![Quick Scan — $8.99](https://img.shields.io/badge/Quick%20Scan-%248.99%20on%20PromptBase-1a1a1a?style=for-the-badge)](https://promptbase.com/prompt/gold-gap-finder-quick-scan?via=p963)
 [![Full System — $88.80](https://img.shields.io/badge/Full%20System-%2488.80%20on%20Gumroad-b8860b?style=for-the-badge)](https://plande.gumroad.com/l/gold-gap-finder)
