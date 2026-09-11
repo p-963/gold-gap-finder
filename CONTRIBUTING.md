@@ -1,22 +1,27 @@
-# Contributing
+# 🤝 Contributing
 
-Contributions to the public Community Edition are welcome when they improve:
+Thanks for your interest in Gold Gap Finder. This repository hosts the public methodology, a conceptual exercise, and example walkthroughs.
 
-- clarity
-- documentation
-- educational examples
-- usability of the public methodology
+## What contributions are welcome
 
-Please keep contributions within the scope of the Community Edition.
+- Fixing typos, unclear wording, or broken links
+- Improving formatting or readability
+- Suggesting additional example niches for the Methodology Preview (as a written suggestion via issue, not a full walkthrough — we'll write those)
+- Translations of the Try the Concept exercise into other languages (open an issue first so we can coordinate)
+- General feedback on the methodology explanation via GitHub Issues
 
-Do not submit or disclose:
+## What contributions are not accepted
 
-- the private Gold Gap Finder v7 prompt
-- proprietary research or scoring logic
-- paid templates or purchased materials
-- private customer or business data
-- API keys, credentials or other secrets
+- Additions or changes to the core research methodology, scoring logic, or verification framework. This repo intentionally contains no runnable version of either paid product — both the Quick Scan (PromptBase) and the Full System (Gumroad v7) are proprietary and sold separately.
+- Pull requests that add prompt text, scoring formulas, verification architecture, or output templates from either paid product. These will not be merged.
+- AI-generated filler content, unrelated tooling, or unrelated promotional links.
 
-For substantial changes, please keep the contribution focused on the public methodology and its educational use.
+## How to contribute
 
-Thank you for helping improve the public edition while keeping the commercial system protected.
+1. Open an issue first for anything beyond a small typo fix, so we can confirm it's in scope before you spend time on it.
+2. Fork the repo, make your change, and open a pull request referencing the issue.
+3. Keep pull requests small and focused — one change per PR.
+
+## Questions
+
+For anything related to the paid system, licensing, or refunds, email goldgapfindersupport@gmail.com rather than opening an issue.
