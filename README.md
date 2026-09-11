@@ -94,10 +94,10 @@ Market opportunity ≠ founder opportunity.
 
 Two things in this repo let you evaluate the approach before spending anything:
 
-- **[Methodology Preview](METHODOLOGY_PREVIEW.md)** — walks through Discover → Verify → Differentiate → Decide, and how the system reasons at each stage.
-- **[Community Example](COMMUNITY_EXAMPLE.md)** — a full walkthrough from niche to outcome, so you can see what the reasoning actually looks like.
+- **[Methodology Preview](METHODOLOGY.md)** — walks through Discover → Verify → Differentiate → Decide, and how the system reasons at each stage.
+- **[Community Example](examples/01-COMMUNITY_EXAMPLE.md)** — a full walkthrough from niche to outcome, so you can see what the reasoning actually looks like.
 
-Want to try thinking this way yourself first, by hand? **[Try the Concept →](TRY_THE_CONCEPT.md)**
+Want to try thinking this way yourself first, by hand? **[Try the Concept →](Try_The_Concept.md)**
 
 ---
 
@@ -152,7 +152,7 @@ This is a research and decision-support system. It does not guarantee revenue, c
 
 ## 📚 Explore this repository
 
-- [Try the Concept](Try The Concept.md) — think it through yourself, no prompt required
+- [Try the Concept](Try_The_Concept.md) — think it through yourself, no prompt required
 - [Methodology Preview](METHODOLOGY.md) — how the research process works
 - [Community Example](examples/01-community-example.md) — a full example walkthrough
 - [Security](SECURITY.md)
