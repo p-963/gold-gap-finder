@@ -1,4 +1,4 @@
-# 🧪 Try the Concept
+# 🧪 Try The Concept
 
 This isn't the runnable system — it's a way to think through a niche the same way Gold Gap Finder does, so you can feel whether the approach is useful before you pay for either the Quick Scan or the full system.
 
