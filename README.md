@@ -61,10 +61,10 @@ A single complaint is a signal, not proof.
 
 ## Every outcome is a valid outcome
 
-🟢 **Gold Gap** — a genuine, evidence-backed opportunity worth testing
-🟡 **Wedge** — competition exists, but a narrower opening may remain
-🟠 **Watchlist** — promising, but evidence is still incomplete
-🔴 **Rejected** — the evidence doesn't justify pursuing it
+- 🟢 **Gold Gap** — a genuine, evidence-backed opportunity worth testing
+- 🟡 **Wedge** — competition exists, but a narrower opening may remain
+- 🟠 **Watchlist** — promising, but evidence is still incomplete
+- 🔴 **Rejected** — the evidence doesn't justify pursuing it
 
 And sometimes, honestly: ❌ **No Gold Gap Found.**
 
