@@ -1,219 +1,168 @@
-# 🏆 GOLD GAP FINDER
+<div align="center">
 
-## Evidence-First Opportunity Research System
+<img src="assets/hero-banner.png" alt="Gold Gap Finder — Evidence-First Opportunity Research" width="100%">
 
-> **Don’t generate another startup idea. Find the market gaps worth testing.**
+# Gold Gap Finder
+### Evidence-First Opportunity Research System
 
-Gold Gap Finder is a reusable AI-assisted research system for exploring **underserved business opportunities** before investing heavily in a build.
+**Most AI tools help you fall in love with an idea. This one is built to talk you out of the bad ones — before you spend months building them.**
 
-Instead of starting with:
+[![Quick Scan — $8.99](https://img.shields.io/badge/Quick%20Scan-%248.99%20on%20PromptBase-1a1a1a?style=for-the-badge)](https://promptbase.com/prompt/gold-gap-finder-quick-scan?via=p963)
+[![Full System — $88.80](https://img.shields.io/badge/Full%20System-%2488.80%20on%20Gumroad-b8860b?style=for-the-badge)](https://plande.gumroad.com/l/gold-gap-finder)
 
-> **“I have an idea. Is it good?”**
+**Not sure which one you need? [Jump to Choose Your Path →](#choose-your-path)**
 
-it starts one step earlier:
-
-> **“Where is the market still struggling?”**
-
----
-
-## ⚡ THE CORE IDEA
-
-**Niche → Real-World Signals → Patterns → Verification → Competitive Opening → Decision**
-
-The system is designed to investigate opportunities through multiple lenses rather than treating every interesting idea as a valid opportunity.
+</div>
 
 ---
 
-## 🌐 REAL CUSTOMER SIGNALS
+## 📦 What this repository is
 
-When web research is available, the system can investigate relevant **public online signals**, including:
+This is the public introduction to Gold Gap Finder — the methodology, the philosophy behind it, and a real example of it in action.
 
-- Communities
-- Forums
-- Reviews
-- Product feedback
-- Discussion threads
-- Industry sources
-
-It looks for recurring:
-
-**Complaints · Questions · Workarounds · Friction · Unmet Needs**
-
-> **A single complaint is a signal — not proof.**
+This repo does not contain a runnable copy of either paid system. It exists so you can understand how Gold Gap Finder actually thinks, and decide which depth fits what you need, before spending anything.
 
 ---
 
-## 🔎 WHAT IT INVESTIGATES
+## An idea is not a business
 
-**Pain**  
-Is the problem meaningful and recurring?
+Most "AI startup idea" tools do one thing: generate a list. Gold Gap Finder starts a step earlier — not "is this idea good?" but "where is the market actually struggling?"
 
-**Workaround**  
-What are people doing today?
+```
+Niche → Investigate → Verify → Find the Wedge → Test
+```
 
-**Willingness to Pay**  
-Is there evidence of money, time, or effort already being spent?
-
-**Competition**  
-Who already serves the problem?
-
-**Wedge**  
-Where might a specific opening remain?
-
-**Barrier**  
-Why has the problem not been solved well?
-
-**Founder Fit**  
-Can this opportunity realistically be pursued?
-
-**Kill Test**  
-What evidence would make you walk away?
+It investigates opportunities through several lenses rather than treating every interesting idea as a valid one — and it's just as willing to say no as it is to say yes. A tool that never rejects anything isn't researching. It's just generating.
 
 ---
 
-## ⚔️ NOT ANOTHER IDEA GENERATOR
+## Real customer signals
 
-### Typical Workflow
+When web research is available, the system examines relevant public signals — communities, forums, reviews, product feedback, discussion threads — for recurring complaints, workarounds, and unmet needs.
 
-**Idea → Validate → Build**
-
-### Gold Gap Workflow
-
-**Niche → Investigate → Verify → Find the Opening → Test**
-
-The system is intentionally capable of reaching:
-
-### ❌ NO GOLD GAP FOUND
-
-A real market is not automatically a good entry point.
+A single complaint is a signal, not proof.
 
 ---
 
-## 🎯 CORE RESEARCH OUTCOMES
+## What it investigates
 
-### 🟢 GOLD GAP
-
-Evidence supports a promising opportunity worth real-world testing.
-
-### 🟡 WEDGE
-
-Competition exists, but a narrower opening may remain.
-
-### 🔴 REJECTED
-
-The evidence does not justify pursuing the opportunity as currently defined.
-
-> **Rejecting an opportunity is a valid research result.**
-
-Other valid outcomes may include **WATCHLIST** when important evidence is still missing.
+| Question | What it's checking |
+|---|---|
+| **Pain** | Is the problem real and repeated? |
+| **Workaround** | What are people doing today instead of a proper solution? |
+| **Willingness to Pay** | Is there evidence of money, time, or effort already spent? |
+| **Competition** | Who already solves this, and how well? |
+| **Wedge** | Where might a specific opening remain? |
+| **Barrier** | Why hasn't this been solved well already? |
+| **Founder Fit** | Can this realistically be pursued? |
+| **Kill Test** | What evidence would make you walk away? |
 
 ---
 
-## 🧠 EVIDENCE-FIRST
+## Every outcome is a valid outcome
 
-Gold Gap Finder treats:
+🟢 **Gold Gap** — a genuine, evidence-backed opportunity worth testing
+🟡 **Wedge** — competition exists, but a narrower opening may remain
+🟠 **Watchlist** — promising, but evidence is still incomplete
+🔴 **Rejected** — the evidence doesn't justify pursuing it
 
-**Opinions as signals**  
-**Repetition as patterns**  
-**Independent evidence as verification**
+And sometimes, honestly: ❌ **No Gold Gap Found.**
 
-It does not treat:
-
-- An AI-generated score as validation
-- Interest as willingness to pay
-- Few competitors as proof of opportunity
-- A large market as proof of a good entry point
-
-> **Evidence > Excitement**
+A real market is not automatically a good entry point. Rejecting an opportunity is a valid research result — not a failure to produce one.
 
 ---
 
-## 🧭 FOUNDER FIT
+## Evidence-first, by design
 
-A strong market is not automatically a strong opportunity for every founder.
+Opinions are signals. Repetition is a pattern. Independent evidence is verification.
 
-The system can consider:
+An AI-generated score is not validation. Interest is not willingness to pay. Few competitors is not proof of opportunity. A large market is not proof of a good entry point.
 
-**Skills · Budget · Technical Ability · Distribution Access · Domain Advantage**
-
-> **Market Opportunity ≠ Founder Opportunity**
+**Evidence > Excitement.**
 
 ---
 
-## 🔬 METHODOLOGY PREVIEW
+## Founder fit
 
-The Community Edition demonstrates the public methodology:
+A strong market is not automatically a strong opportunity for every founder. The system also considers skills, budget, technical ability, distribution access, and domain advantage.
 
-**Discover → Verify → Differentiate → Decide**
-
-It shows the research philosophy and decision process without exposing the complete commercial implementation.
+Market opportunity ≠ founder opportunity.
 
 ---
 
-## 🧪 TRY THE CONCEPT
+## 🔬 See it in action
 
-Use these questions to think through a niche:
+Two things in this repo let you evaluate the approach before spending anything:
 
-**Niche:**  
-**Customer:**  
-**Geography:**  
+- **[Methodology Preview](METHODOLOGY_PREVIEW.md)** — walks through Discover → Verify → Differentiate → Decide, and how the system reasons at each stage.
+- **[Community Example](COMMUNITY_EXAMPLE.md)** — a full walkthrough from niche to outcome, so you can see what the reasoning actually looks like.
 
-**What problem appears repeatedly?**  
-**What workaround exists?**  
-**Who already solves it?**  
-**Where do current solutions appear weak?**  
-**What evidence would prove the opportunity wrong?**
-
-This is a **learning/demo layer**, not the complete Gold Gap Finder system.
+Want to try thinking this way yourself first, by hand? **[Try the Concept →](TRY_THE_CONCEPT.md)**
 
 ---
 
-## 🔐 COMMUNITY EDITION VS. FULL SYSTEM
+## 🧬 Why "v7"
 
-### Community Edition
+Seven isn't the headline — the refinement behind it is. Each iteration made the research more selective and harder to fool: fewer generated ideas, more evidence, less room for a promising-sounding candidate to slide through unchecked.
 
-This repository provides a public introduction to the methodology, research philosophy and examples.
-
-### Full Gold Gap Finder v7
-
-The paid system contains the complete research prompt, deeper verification instructions, scoring logic, reusable workflows, templates, walkthroughs and research tooling.
-
-The complete commercial implementation is intentionally not published here.
+v7 is where the framework got disciplined enough to challenge an opportunity properly, before you spend a single hour building it. The Quick Scan below runs on the same discovery angles, compressed into a faster first-pass read.
 
 ---
 
-## ⚠️ IMPORTANT
+<a id="choose-your-path"></a>
 
-Gold Gap Finder is a **text-based AI research system**, not a standalone SaaS application.
+## 🧭 Choose your path
 
-It is designed to work with compatible AI assistants such as:
+Both versions run on the same evidence-first philosophy above. The difference is depth.
 
-**Claude · ChatGPT/GPT · Gemini**
+| | Quick Scan | Full System (v7) |
+|---|---|---|
+| **Where** | PromptBase | Gumroad |
+| **Price** | $8.99 | $88.80 (Founding Edition, first 888 licenses) |
+| **What it's for** | A fast, honest first read on a candidate | Complete pre-build verification |
+| **Candidates per run** | Up to 3, quick-scored | Typically 1–5, fully verified |
+| **Confidence rating** | Quick score + confidence + workaround intensity | Full evidence grade (A–D) |
+| **Competitor check** | Fast reality-check | Multi-angle deep verification |
+| **Rejected candidates shown** | Yes, 1–2 | Yes, every rejection reasoned |
+| **Hidden barrier analysis** | No | Yes |
+| **Founder fit scoring** | No | Yes — MVP feasibility, distribution difficulty, insider advantage |
+| **Kill test** | No | Yes — falsifiable, 7-day |
+| **Validation plan** | No | Yes — full 7-day plan |
+| **Best if you...** | Want a fast, honest read before deciding whether to dig deeper | Have a candidate worth real time, and want to know if it survives scrutiny |
 
-For the strongest research workflow, use an AI environment with web browsing or research access.
+<div align="center">
 
-Gold Gap Finder is a research and decision-support system. It does not guarantee revenue, customers, funding or startup success.
+**[Get the Quick Scan on PromptBase — $8.99 →](https://promptbase.com/prompt/gold-gap-finder-quick-scan?via=p963)**
+&nbsp;&nbsp;&nbsp;
+**[Get the Full System on Gumroad — $88.80 →](https://plande.gumroad.com/l/gold-gap-finder)**
+
+Not sure? Start with the Quick Scan. If a candidate holds up, the full system is the natural next step.
+
+</div>
 
 ---
 
-## 📦 FULL SYSTEM
+## ⚠️ Important
 
-### 🔥 Founding Edition — $88.80
+Gold Gap Finder is a text-based AI research system, not a standalone SaaS application. Both versions work with capable AI assistants — Claude, ChatGPT, Gemini. For the strongest results, use an environment with web browsing.
 
-**First 888 licenses only.**
-
-[Get the complete Gold Gap Finder system →](YOUR_GUMROAD_LINK)
+This is a research and decision-support system. It does not guarantee revenue, customers, funding, or startup success.
 
 ---
 
-## 📚 EXPLORE THE REPOSITORY
+## 📚 Explore this repository
 
-- [Free Edition](FREE-EDITION.md)
-- [Methodology Preview](METHODOLOGY.md)
-- [Community Example](examples/01-community-example.md)
+- [Try the Concept](TRY_THE_CONCEPT.md) — think it through yourself, no prompt required
+- [Methodology Preview](METHODOLOGY_PREVIEW.md) — how the research process works
+- [Community Example](COMMUNITY_EXAMPLE.md) — a full example walkthrough
 - [Security](SECURITY.md)
 - [Contributing](CONTRIBUTING.md)
+- [License](LICENSE.md)
 
 ---
 
-### **Find the gap. Verify the signal. Test before you build.**
+<div align="center">
+
+**Find the gap. Verify the signal. Test before you build.**
+
+</div>
