@@ -60,4 +60,4 @@ This example stopped at a verdict, written out in full narrative form. The real 
 - A Founder Fit breakdown (MVP feasibility, distribution difficulty, insider advantage)
 - A full 7-day validation plan — from defining the ICP to attempting a real pilot or payment
 
-**[Compare Quick Scan vs. the Full System →](README.md#choose-your-path)**
+**[Compare Quick Scan vs. the Full System →](README.md)**
