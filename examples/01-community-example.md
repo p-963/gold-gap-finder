@@ -6,58 +6,81 @@ A real walkthrough — from niche to outcome — showing how Discover → Verify
 
 ## Input
 
-**Niche:** Neighborhood gyms and fitness studios (small, independently owned)  
-**Geography:** Tier-1/Tier-2 Indian cities  
-**Customer:** Owner-operators running a single location, 1–3 staff, no dedicated ops team  
+**Niche:** AI use in content creation  
+**Geography:** Worldwide  
+**Customer:** Individual content creators using AI tools in their workflow  
 
 ---
 
 ## Discover
 
-Scanning owner forums, review sites, and small-business communities surfaced a recurring thread: gym owners frequently mention losing track of equipment maintenance — treadmills breaking down mid-week, members complaining about broken machines, repairs handled reactively rather than on a schedule.
+Scanning creator communities and platform policy updates surfaced a recurring, fairly new thread: individual creators using AI tools now face real disclosure requirements, and almost nobody has a simple way to keep track of them.
 
-This candidate survived the first triage pass: the pain is specific — not "running a gym is hard," but "equipment breaks and nobody tracks servicing dates" — and there's a clear customer.
+This candidate survived the first triage pass — the trigger is specific and dated (not "AI content is controversial," but "a specific law took effect and platforms each handle it differently"), and there's a clear, narrow customer.
 
 ---
 
 ## Verify
 
-**Pain check:** Multiple independent mentions across different platforms describe the same pattern — machines get serviced only after they break, member complaints pile up, and repairs cost more than preventive maintenance would have. Owners describe this as recurring, not one-time.
+**Pain check:** The EU AI Act's Article 50 disclosure requirement went into effect in August 2026, and it applies to any creator whose content reaches EU viewers — regardless of where the creator is based. On top of that, TikTok, YouTube, and Meta each run their own separate AI-labeling systems, with different triggers and mechanics. A creator posting the same piece across platforms has to satisfy several different rulebooks at once.
 
-**Workaround check:** Most owners use a physical logbook, a WhatsApp reminder to themselves, or nothing at all. A few larger chains use generic asset-management software, described as overbuilt and expensive for a single-location gym.
+**Workaround check:** Creators currently check each platform's current disclosure rules manually, per upload — no consolidated process found.
 
-**Competition check:** Searched "gym equipment maintenance software," "facility maintenance apps," and general asset-tracking tools. Found several products — but built for large facilities (hospitals, hotels, factories), with pricing and complexity that doesn't fit a single-location gym owner.
+**Competition check:** Searched for "AI content disclosure tool" and similar. Found a free AI-disclosure label generator, and separate enterprise-facing "AI compliance checker" platforms — but those are built for brands and agencies auditing influencer campaigns at scale, not for an individual creator tracking their own disclosure status across their own accounts.
 
-**Barrier check:** Part of why this hasn't been solved well for small gyms specifically is that the market per-location is small, so it hasn't been worth it for big players to build a stripped-down version. Real constraint — but not necessarily fatal for a focused, low-cost tool.
+**Barrier check:** Part of why this hasn't been solved for individual creators specifically is that the trigger is recent — most existing tooling was built before or around brand-compliance use cases, not solo creators. That's a timing gap more than a structural one.
 
 ---
 
 ## Differentiate
 
-Existing solutions solve this for large facilities, not small, single-location, non-technical owners. The likely wedge: a dead-simple, mobile-first maintenance log — built specifically for gyms, cheap enough for a single location, none of the enterprise complexity.
+Existing tools solve this for enterprise compliance teams, not individual creators managing their own accounts. The likely wedge: a lightweight, solo-creator-first disclosure tracker — no brand dashboard, no agency pricing, just "am I covered on every platform I post to."
 
 ---
 
 ## Decide
 
-🟡 **Wedge** — Competition exists at the enterprise level, but there's a plausible narrower opening for a stripped-down, gym-specific version.
+🟡 **Wedge** — A dated, external trigger (not vague pain) with existing solutions that miss the individual-creator segment specifically.
 
-**What would still need to be proven before building:** whether owners would actually pay a recurring fee for this versus continuing with a free logbook or WhatsApp. That's the single biggest open question — exactly what the full system is built to pressure-test, with a proper willingness-to-pay check and a kill test, before anyone spends time building.
+**What would still need to be proven before building:** whether solo creators feel this enough to pay for it, or just use each platform's native toggle and move on. That's the single biggest open question — exactly what the full system is built to pressure-test, with a proper willingness-to-pay check and a kill test, before anyone spends time building.
 
 ---
 
 ## What running the actual system adds on top of this
 
-This example stopped at a verdict, written out in full narrative form. The real system compresses this same reasoning into structured, scored output, at one of two depths:
+This example stopped at a verdict, written out in full narrative form. The real system compresses this same reasoning into structured, scored output — here is roughly how far each version would take this exact candidate.
 
-**A Quick Scan pass** would give this candidate a numeric quick score, a confidence rating, and a workaround-intensity rating, alongside the same kind of honest rejected-candidates section — in a fast, single read.
+### What a Quick Scan pass would output
 
-**A Full System (v7) pass** goes further, adding:
+```
+Solo Creator AI-Disclosure Tracker
+Quick Score: 6/10
+Confidence: 🟡 Medium
+Workaround Intensity: 3/5 — manual, per-platform, per-upload
 
-- A numeric Gold Gap Score (1–10)
-- An Evidence Grade (A–D) based on how independently verified each claim is
-- A specific, falsifiable Kill Test to run within 7 days
-- A Founder Fit breakdown (MVP feasibility, distribution difficulty, insider advantage)
-- A full 7-day validation plan — from defining the ICP to attempting a real pilot or payment
+Quick Reality Check: Partially — a free label generator and
+enterprise compliance platforms exist, but neither targets a
+solo creator tracking their own cross-platform status.
 
-**[Compare the Quick Scan vs. the Full System →](README.md#choose-your-path)**
+What's Still Unverified: Whether solo creators feel this enough
+to pay, or just use platform-native toggles and move on.
+```
+
+Fast, honest, and enough to decide whether this is worth a closer look.
+
+### What a Full System (v7) pass adds on top of that
+
+```
+Gold Gap Score: 6/10        Evidence Grade: B
+Status: 🟡 WEDGE
+
+[... full Pain / Workaround / WTP / Competition / Wedge /
+ Barrier / Founder Fit breakdown, each independently verified ...]
+
+Kill Test: If 10 of 10 creators say they'd rather just use each
+platform's built-in toggle than track this separately, this dies.
+```
+
+...plus a full 7-day validation plan — from defining the exact customer to attempting a real pilot or payment. The full breakdown between those two brackets is what you're paying for: independently verified pain, workaround, willingness-to-pay, and competition evidence for every field, not just the two shown here.
+
+**[Compare Quick Scan vs. the Full System →](README.md#choose-your-path)**
