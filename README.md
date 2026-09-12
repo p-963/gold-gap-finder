@@ -95,7 +95,7 @@ Market opportunity ≠ founder opportunity.
 Two things in this repo let you evaluate the approach before spending anything:
 
 - **[Methodology Preview](METHODOLOGY.md)** — walks through Discover → Verify → Differentiate → Decide, and how the system reasons at each stage.
-- **[Community Example](examples/01-community-example.md)** — a full walkthrough from niche to outcome, so you can see what the reasoning actually looks like.
+- **[Community Example](COMMUNITY_EXAMPLE.md)** — a full walkthrough from niche to outcome, so you can see what the reasoning actually looks like.
 
 Want to try thinking this way yourself first, by hand? **[Try The Concept →](Try-The-Concept.md)**
 
