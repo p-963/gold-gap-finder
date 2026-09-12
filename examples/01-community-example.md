@@ -9,6 +9,7 @@ A real walkthrough — from niche to outcome — showing how Discover → Verify
 **Niche:** AI use in content creation  
 **Geography:** Worldwide  
 **Customer:** Individual content creators using AI tools in their workflow  
+**Founder constraints:** Solo, non-technical, low budget  
 
 ---
 
