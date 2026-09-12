@@ -154,7 +154,7 @@ This is a research and decision-support system. It does not guarantee revenue, c
 
 - [Try The Concept](Try-The-Concept.md) — think it through yourself, no prompt required
 - [Methodology Preview](METHODOLOGY.md) — how the research process works
-- [Community Example](examples/01-community-example.md) — a full example walkthrough
+- [Community Example](COMMUNITY_EXAMPLE.md) — a full example walkthrough
 - [Security](SECURITY.md)
 - [Contributing](CONTRIBUTING.md)
 - [License](LICENSE)
